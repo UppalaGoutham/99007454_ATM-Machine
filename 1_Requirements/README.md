@@ -28,8 +28,11 @@
 | 4. | Where | It is available in various places..| 
 | 5. | How | The program of this application was developed in Python language to avoid the complexity and to keep it simple.|
 
+## SWOT Analysis:
 
- 
+![SWOT_Analysis](https://user-images.githubusercontent.com/98812442/161213453-da4be226-baa7-49fe-b41c-4d57d830f309.png)
+
+
 ## Advantages
 -   Easy and faster access 
 -   Automated teller machines are easily arranged in different areas so that every bank customer can visit the machine to execute any transaction.
