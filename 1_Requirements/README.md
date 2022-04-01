@@ -8,7 +8,7 @@
   how much amount is in the account. 
   
   
-##  Features
+##  Features:
 -   Transfer funds between linked bank accounts
 -   EasierAccess
 -   Low Cost
@@ -19,7 +19,7 @@
 -   Perform a range of features in your foreign language.
 
 
-## 4W's & 1H
+## 4W's & 1H:
 | Sl.No | Questions | Description | 
 | :-----: | :-----: | ----- |
 | 1. | What | It's an automatic machine to check Balance,withdraw or Deposit the money. |
@@ -33,7 +33,7 @@
 ![SWOT_Analysis](https://user-images.githubusercontent.com/98812442/161213453-da4be226-baa7-49fe-b41c-4d57d830f309.png)
 
 
-## Advantages
+## Advantages:
 -   Easy and faster access 
 -   Automated teller machines are easily arranged in different areas so that every bank customer can visit the machine to execute any transaction.
 -   It is used to withdraw the money in a fraction of minutes so that time can be saved.
@@ -44,7 +44,7 @@
 -   The ATMs are convenient for banks customers
 -   The ATM is very beneficial for travelers
  
- ## Disadvantages
+ ## Disadvantages:
 -   IT charges some amount once free transactions exceed
 -   Once ATM card damages then cash withdraw is not possible
 -   Possibility of cash robbery from ATMs
@@ -52,7 +52,7 @@
 -   The risk of theft is high while going to ATMs
 
 
-## High Level Requirements
+## High Level Requirements:
 | ID | Description | Status |
 |--|--|--|
 | HR01 | Menu  | Implemented |
@@ -62,7 +62,7 @@
 | HR05 | Withdraw Cash | Implemented |
 
 
-## Low Level Requirements 
+## Low Level Requirements:
 
 | ID | Description | HR ID | Status |
 |--|--|--|--|
