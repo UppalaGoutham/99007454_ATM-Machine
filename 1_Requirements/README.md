@@ -50,4 +50,29 @@
 -   Possibility of cash robbery from ATMs
 -   ATM pin can be easily hacked by criminals by operating an ATM
 -   The risk of theft is high while going to ATMs
+
+
+## High Level Requirements
+| ID | Description | Status |
+|--|--|--|
+| HR01 | Menu  | Implemented |
+| HR02 | Account Detail | Implemented |
+| HR03 | Check Balance |  Implemented |
+| HR04 | Deposit Cash |  Implemented |
+| HR05 | Withdraw Cash | Implemented |
+
+
+## Low Level Requirements 
+
+| ID | Description | HR ID | Status |
+|--|--|--|--|
+| LR01 |Main menu should consist 5 options: 1. Account Detail 2. Check Balance 3. Deposit Cash 4. Withdraw Cash 5. Exit  | HR01| Implemented |
+| LR02 | Reading user input to select particular option | HR01| Implemented |
+| LR03 | Output screen will display the overall Account Details  | HR02| Implemented |
+| LR04 | Should display final updated balance after credit or debit | HR02| Implemented |
+| LR05 | Output screen will display the overall balance  | HR03| Implemented |
+| LR05 | Read user input to  Deposit the exact amount of  cash  | HR04| Implemented |
+| LR06 | Read user input to withdraw entered amount exactly | HR05| Implemented |
+
+
  
