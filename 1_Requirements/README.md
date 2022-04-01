@@ -32,13 +32,19 @@
  
 ## Advantages
 -   Easy and faster access 
--   Better, longer-lasting customer relationships
--   Offer 24/7 service
--   Reduce bank workloads
--   easier to access
+-   Automated teller machines are easily arranged in different areas so that every bank customer can visit the machine to execute any transaction.
+-   It is used to withdraw the money in a fraction of minutes so that time can be saved.
+-   It reduces the cash-carrying because anyone can withdraw the money at any ATM center so it works like a cashpoint
+-   The ATM provides 24 hours service
+-   The ATM provides privacy in banking communications
+-   The ATMs reduce the workload banks staff
+-   The ATMs are convenient for banks customers
+-   The ATM is very beneficial for travelers
  
  ## Disadvantages
--   GUI is needed
--   Limitations on cash withdrawl
--   Possibility of frauds
+-   IT charges some amount once free transactions exceed
+-   Once ATM card damages then cash withdraw is not possible
+-   Possibility of cash robbery from ATMs
+-   ATM pin can be easily hacked by criminals by operating an ATM
+-   The risk of theft is high while going to ATMs
  
